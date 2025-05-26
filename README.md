@@ -1,5 +1,5 @@
 # Atom FullStack Backend Challenge - Lista de Tareas
-
+**Realizado por Christian Cattani**
 ## Tecnologías utilizadas
 - **Node.js** con **Express** para el servidor backend.
 - **TypeScript** para tipado estático y mejor mantenimiento del código.

@@ -22,4 +22,4 @@
 - La estructura del proyecto facilita la mantenibilidad y escalabilidad futura.
 - Se recomienda revisar la configuración de despliegue y dependencias para evitar conflictos de tipos en TypeScript.
 
-Este backend cumple con los requerimientos funcionales del challenge y está listo para integrarse con el frontend Angular.
+Este backend cumple con los requerimientos funcionales del challenge y está listo para integrarse con Angular.

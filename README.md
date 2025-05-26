@@ -18,7 +18,6 @@
 - No se implementó autenticación avanzada (tokens) para mantener simplicidad y cumplir con el tiempo del challenge.
 
 ## Comentarios relevantes
-- El despliegue en Firebase Cloud Functions requiere plan Blaze para habilitar APIs necesarias.
 - El proyecto está preparado para extenderse con autenticación, pruebas unitarias y mejoras en seguridad.
 - La estructura del proyecto facilita la mantenibilidad y escalabilidad futura.
 - Se recomienda revisar la configuración de despliegue y dependencias para evitar conflictos de tipos en TypeScript.

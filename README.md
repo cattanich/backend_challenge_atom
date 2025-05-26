@@ -1,4 +1,4 @@
-# Backend Challenge - Lista de Tareas
+# Atom FullStack Backend Challenge - Lista de Tareas
 
 ## Tecnologías utilizadas
 - **Node.js** con **Express** para el servidor backend.

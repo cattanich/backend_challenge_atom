@@ -21,7 +21,7 @@ admin.initializeApp({
 const db = admin.firestore();
 
 const app = express();
-app.use(cors({ origin: true }));
+app.use(cors({ origin: '*' })); // Allow all origins
 app.use(express.json());
 
 // Middleware para manejar errores async
